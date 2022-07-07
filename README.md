@@ -1,4 +1,111 @@
-# Getting Started with Create React App
+# What's my money
+
+What is my money(Qual é o meu dinheiro) foi desenvolvido como um dashboard de gestão de transações de dinheiro de entrada e saida de valores mostrando na tela de forma dinamica e poremte para o cliente. 
+
+## Linguagens
+
+|Linguagens       |README                         |
+|-----------------|-------------------------------|
+|English          |[LINK](lll)                    |
+|Portuguese Brazil|[LINK](./README_pt-br.md)      |
+
+## Tabela de conteúdos
+
+|Conteúdos                                                               |Status|
+|------------------------------------------------------------------------|------|
+|[👀 Visão Geral 👀](#-visão-geral)                                      |OK    |
+|[🎯 Desafios 🎯](#-o-desafio)                                           |OK    |
+|[📽️ Captura de Tela 📽️](#-captura-de-tela)                              |OK    |
+|🧪 Links para Demos 🧪                                                  |NOT   |
+|[👟 Meu Processo 👟](#-meu-processo)                                    |OK    |
+|[📖 O que aprendi 📖](#-o-que-aprendi)                                  |OK    |
+|[🏗️ Desenvolvido com 🏗️](#-desenvolvido-com-as-tecnologias)             |OK    |
+|[🏭 Desenvolvido continuo 🏭](#-desenvolvimento-continuo)               |OK    |
+|[📦 Recursos 📦](#-recursos)                                            |OK    |
+|[✍️ Autor ✍️](#-autor)                                                    |OK    |
+|[📞 Contato 📞](#-contato)                                              |OK    |
+|[🎊 Agradecimentos🎊](#-agradecimentos)                                 |OK    |
+|                                                                        |      |
+
+## 👀 Visão Geral
+
+### 🎯 O desafio
+
+O que os usuarios devem fazer:
+
+
+#### Desafio Dev
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+### 📽 Captura de Tela
+
+![Image](./screenshot.png)
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 👟 Meu processo
+
+### 🏗 Desenvolvido com as tecnologias
+
+
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+### 📖 O que aprendi
+
+
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+### 🏭 Desenvolvimento Continuo
+
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## ✍ Autor
+
+- GitHub - [Henrique Santos Santana](https://github.com/HenriqueSSan/)
+- Linkedin - [Henrique Santos Santana](https://linkedin.com/in/henrique-santos-santana)
+- Discord - **HenriqueSSan#5066**
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 📞 Contato
+
+- Email: [hsstudentwork@gmail.com](https://mail.to:hsstudentwork@gmail.com)
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+## 🎊 Agradecimentos
+
+Meus agradecimentos a minha família, amigos e amigas que me apoiaram durante meu desenvolvimento.
+
+[<<< TOP](#tabela-de-conteúdos)
+
+------------------------------------------------------------------
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
