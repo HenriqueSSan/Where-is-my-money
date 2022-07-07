@@ -1,6 +1,6 @@
 # Where's my money
 
-Where is my money(Onde está o meu dinheiro) foi desenvolvido como um dashboard de gestão de transações de dinheiro de entrada e saida de valores mostrando na tela de forma dinamica e poremte para o cliente. 
+Where is my money(Onde está o meu dinheiro) foi desenvolvido como um dashboard de gestão de transações de dinheiro de entrada e saida de valores mostrando na tela de forma dinamica e clara para o cliente. 
 
 ## Linguagens
 
